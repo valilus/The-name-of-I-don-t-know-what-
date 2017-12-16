@@ -1,9 +1,10 @@
+* demo file from tracktask.com
 * DONE ada:valilus::fast:
 SCHEDULED: <2017-11-26 Sun>
 DEADLINE: <2017-11-07 Tue>
 * ASda
 asdasd 
-* TODO [#A] sddas :fast::valilus:
+* DONE [#A] sddas :fast::valilus:
 afsf 
 SCHEDULED: <2017-12-16>
 DEADLINE: <2017-12-07>
