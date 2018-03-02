@@ -8,3 +8,7 @@ asdasd
 afsf 
 SCHEDULED: <2017-12-16>
 DEADLINE: <2017-12-07>
+* TODO [#A] Finish Thesis :urgent::valilus:
+We have to finish it by march 5th 
+SCHEDULED: <2018-03-02>
+DEADLINE: <2018-03-05>
